@@ -64,7 +64,7 @@ body {
   color: #7fc8a9;
 }
 .background-container {
-  background-image: url(assets/images/cover.png);
+  background-image: url(images/cover.png);
   height: 100vh;
   background-repeat: no-repeat;
 }
@@ -310,7 +310,7 @@ body {
   transition-duration: 0.3s;
 }
 .skills {
-  background-image: url(assets/images/cover.png);
+  background-image: url(images/cover.png);
 }
 .naslovskills span {
   color: #7fc8a9;
@@ -388,7 +388,7 @@ body {
   margin-top: 4rem;
 }
 .portfoliowr {
-  background-image: url(assets/images/cover.png);
+  background-image: url(images/cover.png);
   background-position: right;
   padding-top: 3rem;
   padding-bottom: 8rem;
